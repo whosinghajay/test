@@ -1,0 +1,5 @@
+{{#user}
+Name: Ajay Singh
+Skills: HTML, CSS,JS,ReactJS,C/C++,DS
+Email: whosinghajay@gmail.com
+{{/user}}
